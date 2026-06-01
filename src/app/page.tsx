@@ -43,6 +43,11 @@ export default async function HomePage() {
       <TitleRow title="Crime & Mystery"        items={crime} />
 
       <footer className="mt-8 py-4 text-center text-[10px] tracking-widest text-zinc-700 select-none">
+        shon
+        
+        
+        
+        
         niqqa jai
       </footer>
     </main>
